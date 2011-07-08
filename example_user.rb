@@ -14,3 +14,4 @@ class User
     "#{@name} <#{@email}>" # Eric Clifford <ericgclifford@gmail.com>
   end
 end
+
